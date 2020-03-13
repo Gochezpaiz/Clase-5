@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+h1{
+	color:darkorange;
+	font-size: 6em;
+}
+p{
+ color: indianred;
+font-family:"Pacifico";
+font-size: 4em;
+}
+p.alternativo{
+	color: coral;
+}
+a:link {
+	color:lightskyblue
+}
+a:visited{
+	color: aqua
+}
+a:hover{
+	text-decoration: none
+}
